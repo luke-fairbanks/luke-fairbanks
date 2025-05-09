@@ -12,7 +12,15 @@
 ![Bruh](https://img.shields.io/badge/bruh-8A2BE2)
 
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-
+![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 
 # 📊 GitHub Stats:
