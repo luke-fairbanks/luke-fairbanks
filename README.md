@@ -23,11 +23,12 @@
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
+___it kinda depends on how i'm feeling (also what the project is)___
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luke-fairbanks&theme=dark&hide_border=false)<br/>
