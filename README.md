@@ -33,7 +33,10 @@ _It kinda depends on how i'm feeling __(and what the project is).___
 # 📊 GitHub Stats:
 
 #### Really hoping I don't embarrass myself with these.
-[comment]: <> ((https://github-readme-stats.vercel.app/api?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false))<br/>
+<!---
+(https://github-readme-stats.vercel.app/api?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+-->
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luke-fairbanks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html)
 
