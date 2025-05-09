@@ -28,7 +28,7 @@
 
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-___it kinda depends on how i'm feeling (also what the project is)___
+_It kinda depends on how i'm feeling __(also what the project is).___
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luke-fairbanks&theme=dark&hide_border=false)<br/>
