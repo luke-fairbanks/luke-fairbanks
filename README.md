@@ -4,6 +4,11 @@
 💻 I am a Software Developer and part of the Innovation Team at eAssist Dental Solutions<br>
 📚 I am learning data structures and algorithms
 
+# 🛠️ Things I've Built:
+- [Harbor](https://github.com/luke-fairbanks/harbor-mcp) - start all your local dev servers with one button. MCP built in, so AI agents can drive your dev environment.
+- [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - see what is draining your Mac's battery. 100% local.
+- [Tab Tamer](https://github.com/luke-fairbanks/TabTamer) - snoozes inactive Chrome tabs to free memory, without being able to read your URLs.
+- [QuizletLocal](https://github.com/luke-fairbanks/quizlet-local) - import your Quizlet sets and study them locally, ad free.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luke.fairbanks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-fairbanks) 
