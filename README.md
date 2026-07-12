@@ -1,12 +1,14 @@
 # Luke Fairbanks
 
+<!-- markdownlint-disable MD013 MD033 -->
+
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Turning recurring annoyances into shipped software — local-first apps, macOS, MCP, and developer tools" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Turning recurring annoyances into shipped software — full-stack products, AI, MCP, and developer tools" width="100%" />
 </p>
 
-I build local-first macOS apps and developer tools that coding agents can actually use.
+I build full-stack products and developer tools—from the interface and API through data, infrastructure, and deployment.
 
-I'm a computer science student at Brigham Young University and a software developer on the Innovation Team at eAssist Dental Solutions. I like turning recurring annoyances into focused products that run locally, respect their users, and do one job well.
+I'm a computer science student at Brigham Young University and a software developer on the Innovation Team at eAssist Dental Solutions. I like turning recurring annoyances into focused software that respects its users and does one job well.
 
 <p>
   <a href="https://www.linkedin.com/in/luke-fairbanks">LinkedIn</a>
@@ -57,9 +59,9 @@ A tiny privacy-first Chrome extension that reclaims memory by discarding inactiv
 - [RetroRacer](https://github.com/luke-fairbanks/racer-learning-model) — a continuous-control racing environment for training agents with Soft Actor-Critic.
 - [Mini Search Engine](https://github.com/luke-fairbanks/search-engine) — crawl the web, then rank results with BM25 and PageRank and explore the graph visually.
 
-## Toolbox
+## Current focus
 
-Most often: **TypeScript + React**, **Rust + Tauri**, **Swift + macOS**, and **Python**. I pick the stack around the problem; the current bias is native, local, and dependency-light.
+**Full-stack product development** — taking ideas from rough prototype to deployed product. I work across TypeScript, Python, Rust, and Swift, choosing the stack around the problem instead of centering any one framework or platform.
 
 ## Recently shipped
 
