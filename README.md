@@ -1,51 +1,76 @@
-# 💫 About Me:
-👨‍🎓I am studying Computer Science at Brigham Young University <br>
-💪 I have various side projects I am actively working on. I love starting new projects! Just gotta finish them...<br>
-💻 I am a Software Developer and part of the Innovation Team at eAssist Dental Solutions<br>
-📚 I am learning data structures and algorithms
+# Luke Fairbanks
 
-# 🛠️ Things I've Built:
-- [Harbor](https://github.com/luke-fairbanks/harbor-mcp) - start all your local dev servers with one button. MCP built in, so AI agents can drive your dev environment.
-- [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - see what is draining your Mac's battery. 100% local.
-- [Tab Tamer](https://github.com/luke-fairbanks/TabTamer) - snoozes inactive Chrome tabs to free memory, without being able to read your URLs.
-- [QuizletLocal](https://github.com/luke-fairbanks/quizlet-local) - import your Quizlet sets and study them locally, ad free.
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Turning recurring annoyances into shipped software — local-first apps, macOS, MCP, and developer tools" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luke.fairbanks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-fairbanks) 
+I build local-first macOS apps and developer tools that coding agents can actually use.
 
-# 💻 Tech Stack:
+I'm a computer science student at Brigham Young University and a software developer on the Innovation Team at eAssist Dental Solutions. I like turning recurring annoyances into focused products that run locally, respect their users, and do one job well.
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<p>
+  <a href="https://www.linkedin.com/in/luke-fairbanks">LinkedIn</a>
+</p>
 
+## Featured work
 
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### [Harbor](https://github.com/luke-fairbanks/harbor-mcp)
 
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+A native macOS control plane for local dev servers, with smart ports, crash recovery, live monitoring, and an authenticated MCP interface for Claude and Codex.
 
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![Harbor release](https://img.shields.io/github/v/release/luke-fairbanks/harbor-mcp?style=flat-square&label=release&color=2f81f7)](https://github.com/luke-fairbanks/harbor-mcp/releases/latest)
+[![Harbor downloads](https://img.shields.io/github/downloads/luke-fairbanks/harbor-mcp/total?style=flat-square&label=downloads&color=2f81f7)](https://github.com/luke-fairbanks/harbor-mcp/releases)
+`Rust` `Tauri 2` `React` `MCP`
 
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+[Source](https://github.com/luke-fairbanks/harbor-mcp) · [Download](https://github.com/luke-fairbanks/harbor-mcp/releases/latest) · `brew install --cask luke-fairbanks/tap/harbor`
 
-![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+### [Battery Hog](https://github.com/luke-fairbanks/BatteryHog)
 
-_It kinda depends on how i'm feeling __(and what the project is).___
+A 100% local macOS battery and energy monitor that turns built-in system telemetry into live power draw, per-app impact, charge history, and practical drain insights.
 
-# 📊 GitHub Stats:
+[![Battery Hog release](https://img.shields.io/github/v/release/luke-fairbanks/BatteryHog?style=flat-square&label=release&color=238636)](https://github.com/luke-fairbanks/BatteryHog/releases/latest)
+[![Battery Hog downloads](https://img.shields.io/github/downloads/luke-fairbanks/BatteryHog/total?style=flat-square&label=downloads&color=238636)](https://github.com/luke-fairbanks/BatteryHog/releases)
+`Swift` `Python` `WebKit` `macOS`
 
-#### Really hoping I don't embarrass myself with these.
-<!---
-https://github-readme-stats.vercel.app/api?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luke-fairbanks&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-fairbanks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html)
+[Source](https://github.com/luke-fairbanks/BatteryHog) · [Download](https://github.com/luke-fairbanks/BatteryHog/releases/latest) · `brew install --cask luke-fairbanks/tap/battery-hog`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### [broll](https://github.com/luke-fairbanks/broll)
 
----
-[![](https://visitcount.itsvg.in/api?id=Luke-fairbanks&icon=0&color=0)](https://visitcount.itsvg.in)
+An MCP content studio for coding agents: generate media with your own keys, then render videos and carousels deterministically. Every post lands in a reviewable outbox and requires confirmation to publish.
+
+[![broll on npm](https://img.shields.io/npm/v/broll-mcp?style=flat-square&label=npm&color=f05a2a)](https://www.npmjs.com/package/broll-mcp)
+`TypeScript` `MCP` `FFmpeg` `Sharp`
+
+[Source](https://github.com/luke-fairbanks/broll) · [See it in action](https://luke-fairbanks.github.io/broll/) · `npx broll-mcp`
+
+### [Tab Tamer](https://github.com/luke-fairbanks/TabTamer)
+
+A tiny privacy-first Chrome extension that reclaims memory by discarding inactive background tabs—without access to URLs, page content, or browsing history.
+
+`Chrome MV3` `JavaScript` `2 permissions` `0 network requests`
+
+[Source and install guide](https://github.com/luke-fairbanks/TabTamer)
+
+## More things I've built
+
+- [QuizletLocal](https://github.com/luke-fairbanks/quizlet-local) — import Quizlet sets and study locally, without ads or accounts.
+- [RetroRacer](https://github.com/luke-fairbanks/racer-learning-model) — a continuous-control racing environment for training agents with Soft Actor-Critic.
+- [Mini Search Engine](https://github.com/luke-fairbanks/search-engine) — crawl the web, then rank results with BM25 and PageRank and explore the graph visually.
+
+## Toolbox
+
+Most often: **TypeScript + React**, **Rust + Tauri**, **Swift + macOS**, and **Python**. I pick the stack around the problem; the current bias is native, local, and dependency-light.
+
+## Recently shipped
+
+<!-- releases:start -->
+- [broll-mcp v0.1.1](https://www.npmjs.com/package/broll-mcp/v/0.1.1) — July 12, 2026
+- [Harbor v0.1.0](https://github.com/luke-fairbanks/harbor-mcp/releases/tag/v0.1.0) — July 10, 2026
+- [Battery Hog 1.1](https://github.com/luke-fairbanks/BatteryHog/releases/tag/v1.1) — July 10, 2026
+<!-- releases:end -->
+
+<sub>Updated weekly by a small script in this repository.</sub>
+
+## Contact
+
+For bugs and feature ideas, open an issue in the relevant repository. For everything else, [connect with me on LinkedIn](https://www.linkedin.com/in/luke-fairbanks).
