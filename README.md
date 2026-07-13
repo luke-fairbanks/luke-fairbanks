@@ -66,9 +66,9 @@ A tiny privacy-first Chrome extension that reclaims memory by discarding inactiv
 ## Recently shipped
 
 <!-- releases:start -->
+- [Harbor v0.3.0](https://github.com/luke-fairbanks/harbor-mcp/releases/tag/v0.3.0) — July 13, 2026
+- [Battery Hog 1.3](https://github.com/luke-fairbanks/BatteryHog/releases/tag/v1.3) — July 13, 2026
 - [broll-mcp v0.1.1](https://www.npmjs.com/package/broll-mcp/v/0.1.1) — July 12, 2026
-- [Harbor v0.1.0](https://github.com/luke-fairbanks/harbor-mcp/releases/tag/v0.1.0) — July 10, 2026
-- [Battery Hog 1.1](https://github.com/luke-fairbanks/BatteryHog/releases/tag/v1.1) — July 10, 2026
 <!-- releases:end -->
 
 <sub>Updated weekly by a small script in this repository.</sub>
